@@ -30,14 +30,14 @@ Users should be able to:
 ### Screenshots
 
 ![](images/ping-coming-soon-page-mobile.JPG)
-![](images/ping-coming-soon-page-active-states-mobile.JPG)
 ![](images/ping-coming-soon-page-successful-mobile.JPG)
+![](images/ping-coming-soon-page-active-states-mobile.JPG)
 ![](images/ping-coming-soon-page-desktop.JPG)
 ![](images/ping-coming-soon-page-active-states-desktop.JPG)
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://ping-coming-soon-page-pk.netlify.app/)
 
 ## My process
 
