@@ -195,7 +195,13 @@ i {
 }
 
 @media (min-width: 800px) {
-    main{
+    body {
+        height: 100vh;
+        display: grid;
+        place-content: center;
+    }
+    
+    main {
         width: 750px;
     }
 
@@ -277,12 +283,6 @@ i {
 }
 
 @media (min-width: 1540px) {
-    body {
-        height: 100vh;
-        display: grid;
-        place-content: center;
-    }
-
     main{
         width: 1000px;
     }
