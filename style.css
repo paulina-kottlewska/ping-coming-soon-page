@@ -195,20 +195,11 @@ i {
 }
 
 @media (min-width: 800px) {
-    body {
-        height: 100vh;
-        display: grid;
-        place-content: center;
-    }
-    
     main {
         width: 750px;
+         margin-top: 4rem;
     }
-
-    header {
-        margin-top: 0;
-    }
-
+    
     .logo {
         width: 75px;
     }
@@ -283,7 +274,13 @@ i {
 }
 
 @media (min-width: 1540px) {
-    main{
+    body {
+        height: 100vh;
+        display: grid;
+        place-content: center;
+    }
+    
+    main {
         width: 1000px;
     }
 
