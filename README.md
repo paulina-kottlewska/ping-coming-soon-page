@@ -29,9 +29,9 @@ Users should be able to:
 
 ### Screenshots
 
-![](images/ping-coming-soon-page-mobile.JPG)
 ![](images/ping-coming-soon-page-successful-mobile.JPG)
 ![](images/ping-coming-soon-page-active-states-mobile.JPG)
+![](images/ping-coming-soon-page-mobile.JPG)
 ![](images/ping-coming-soon-page-desktop.JPG)
 ![](images/ping-coming-soon-page-active-states-desktop.JPG)
 
